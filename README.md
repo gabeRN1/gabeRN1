@@ -1,4 +1,4 @@
-# Olá, Sou o Gabriel e bem-vindo aos meus projetos, fiquei a vontade para observar meu trabalho.
+# Olá, Sou o Gabriel e bem-vindo aos meus projetos, fique a vontade para observar meu trabalho.
 ## Eai como vai amigo?! 👋
 
 
