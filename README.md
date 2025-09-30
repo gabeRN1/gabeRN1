@@ -1,3 +1,12 @@
+# Hello, I'm Gabriel — welcome to my projects! Feel free to take a look around.  
+## How's it going, my friend?! 👋  
+
+- 🔭 Currently working on Back-end projects  
+- 🌱 Learning PHP at the moment  
+- 👯 Open to any collaboration that can help me grow  
+- 📫 Reach me by email: just click the button below!  
+- 😄 Pronouns: he/him  
+
 # Olá, Sou o Gabriel e bem-vindo aos meus projetos, fique a vontade para observar meu trabalho.
 ## Eai como vai amigo?! 👋
 
